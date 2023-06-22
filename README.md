@@ -65,7 +65,7 @@ View [Screenshots](https://github.com/Saurabh1383/REACTJS-FRONTEND-CLONE/blob/ma
 
 Suman Saurabh,\
 Civil Engineer,\
-sumansaurabh13832gmail.com/sumansaurabhnitnagaland@gmail.com,\
+sumansaurabh1383@gmail.com/sumansaurabhnitnagaland@gmail.com,\
 9057273592,\
 Bihar.
 
