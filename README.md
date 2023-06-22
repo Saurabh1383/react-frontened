@@ -55,13 +55,6 @@ Banao task 1 is the shortlisting task for internship hiring given by [Banao Tech
 
 View [Screenshots](https://github.com/Saurabh1383/REACTJS-FRONTEND-CLONE/blob/main/Screenshot/) here.
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See [LICENSE](https://github.com/Saurabh1383/REACTJS-FRONTEND-CLONE/blob/main/LICENSE) for more information.
-
-
 ## My System Spec
 
 **Model:** DELL INSPIRON
