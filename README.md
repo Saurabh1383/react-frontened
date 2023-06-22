@@ -1,6 +1,4 @@
-<!-- PROJECT LOGO -->
 <p align="center">
-  <img src="https://github.com/Saurabh1383/REACTJS-FRONTEND-CLONE/blob/main/Screenshot/ATGWebCloneLogo.png" alt="Logo" width="150" height="150">
   <h3 align="center">BANAO TASK 1</h3>
   <p align="center">
     <a href="https://reactjs.org/"><strong>A Reactjs Webapp</strong></a>
@@ -34,7 +32,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Banao task 1 is the shortlisting task for internship hiring given by [Banao Technologies](https://www.banao.tech/). I decided to present this task as a [Reactjs](https://reactjs.org/) application and hosted in [Vercel](https://vercel.com/). [MIT](https://github.com/Saurabh1383/REACTJS-FRONTEND-CLONE/blob/main/LICENSE) licenses this project. If you like this project, give a _star_ and follow me.
+Banao task 1 is the shortlisting task for internship hiring given by [Banao Technologies](https://www.banao.tech/). I decided to present this task as a [Reactjs](https://reactjs.org/) application and hosted in [Vercel](https://vercel.com/).
 
 ## Built With
 
